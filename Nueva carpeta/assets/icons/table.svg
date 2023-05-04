@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="251.989" height="133.833" viewBox="0 0 251.989 133.833">
+  <g id="Grupo_1056" data-name="Grupo 1056" transform="translate(-118.056 -153.702)">
+    <g id="_3_-_Mesa" data-name="3 - Mesa" transform="translate(192.303 170.5)">
+      <line id="Línea_4" data-name="Línea 4" y2="66.981" transform="translate(51.748)" fill="none" stroke="#fff" stroke-width="2"/>
+      <rect id="Rectángulo_257" data-name="Rectángulo 257" width="103.496" height="9.707" rx="3" transform="translate(0 0.203)" fill="none" stroke="lime" stroke-width="2"/>
+    </g>
+    <g id="Grupo_1021" data-name="Grupo 1021">
+      <g id="Grupo_1018" data-name="Grupo 1018">
+        <g id="Grupo_1017" data-name="Grupo 1017">
+          <path id="Trazado_1724" data-name="Trazado 1724" d="M119.056,153.7V274.919a11.616,11.616,0,0,0,11.616,11.616h38.191a11.616,11.616,0,0,0,11.475-9.812l7.964-36.382a11.616,11.616,0,0,0-11.475-13.42H130.672" fill="none" stroke="#fff" stroke-width="2"/>
+        </g>
+      </g>
+      <g id="Grupo_1020" data-name="Grupo 1020">
+        <g id="Grupo_1019" data-name="Grupo 1019">
+          <path id="Trazado_1725" data-name="Trazado 1725" d="M369.045,153.7V274.919a11.616,11.616,0,0,1-11.616,11.616h-38.19a11.616,11.616,0,0,1-11.475-9.812L299.8,240.341a11.616,11.616,0,0,1,11.475-13.42h46.155" fill="none" stroke="#fff" stroke-width="2"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,4 @@
+#Wed May 03 14:39:35 ART 2023
+base.0=C\:\\Users\\Fabio\\Desktop\\Proyecto Agustin\\sexta etapa\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
